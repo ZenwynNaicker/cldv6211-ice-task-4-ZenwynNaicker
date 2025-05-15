@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Basic_HTTP_Trigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7297",
+      "launchBrowser": false
+    }
+  }
+}
